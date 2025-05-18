@@ -1,13 +1,19 @@
 # Fox Quote - Obsidian Plugin
 
+<div align="center">
+
+<img src="./fox-quote.png" alt="Fox Quote" width="300" style="border-radius: 15px;">
+
+</div>
+
 A simple plugin that displays random quotes from a JSON file in your Obsidian vault.
 
 ## Features
 
-- Displays random quotes
-- Automatically refreshes every 10 seconds
-- Uses a simple JSON file for quote storage
-- Lightweight and non-intrusive
+-   Displays random quotes
+-   Automatically refreshes every 10 seconds
+-   Uses a simple JSON file for quote storage
+-   Lightweight and non-intrusive
 
 ## Installation
 
