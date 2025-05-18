@@ -1,8 +1,42 @@
-/*
+@keyframes spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+.quote-content {
+	padding: 1em;
+}
 
-If your plugin does not need CSS, delete this file.
+.quote-text {
+	font-size: 1em;
+	font-style: italic;
+	border-left: 3px solid var(--text-accent);
+	padding-left: 1em;
+	margin-bottom: 0.5em;
+}
 
-*/
+.quote-author {
+	text-align: right;
+	font-weight: thin;
+	color: var(--text-on-accent);
+}
+.quote-refresh-btn {
+	margin-top: 1em;
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+	display: flex;
+	align-items: center;
+	gap: 0.5em;
+	padding: 0.5em 1em;
+}
+
+.quote-refresh-btn:hover svg {
+	animation-name: spin;
+	animation-duration: 1000ms;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}

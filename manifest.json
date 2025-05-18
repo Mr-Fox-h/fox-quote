@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "fox-quote",
+	"name": "Fox Quote",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Simple obsidian quote plugin",
+	"author": "Meisam Heidari",
+	"authorUrl": "https://github.com/Mr-Fox-h/fox-quote",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
