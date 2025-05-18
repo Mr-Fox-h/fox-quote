@@ -1,4 +1,4 @@
-# Fox Quote - Obsidian Plugin
+# Fox Quote
 
 <div align="center">
 
