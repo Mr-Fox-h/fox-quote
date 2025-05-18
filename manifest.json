@@ -1,11 +1,11 @@
 {
 	"id": "fox-quote",
 	"name": "Fox Quote",
-	"version": "1.0.0",
+	"version": "v1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Simple obsidian quote plugin",
 	"author": "Meisam Heidari",
-	"authorUrl": "https://github.com/Mr-Fox-h/fox-quote",
+	"authorUrl": "https://github.com/Mr-Fox-h",
 	"fundingUrl": "https://github.com/Mr-Fox-h/fox-quote/wiki",
 	"isDesktopOnly": false
 }
