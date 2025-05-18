@@ -1,12 +1,3 @@
-@keyframes spin {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: rotate(360deg);
-	}
-}
-
 .quote-content {
 	padding: 1em;
 }
@@ -23,20 +14,4 @@
 	text-align: right;
 	font-weight: thin;
 	color: var(--text-on-accent);
-}
-.quote-refresh-btn {
-	margin-top: 1em;
-	background-color: var(--interactive-accent);
-	color: var(--text-on-accent);
-	display: flex;
-	align-items: center;
-	gap: 0.5em;
-	padding: 0.5em 1em;
-}
-
-.quote-refresh-btn:hover svg {
-	animation-name: spin;
-	animation-duration: 1000ms;
-	animation-iteration-count: infinite;
-	animation-timing-function: linear;
 }

@@ -38,5 +38,185 @@
 	{
 		"name": "Mahatama Gandhi",
 		"quote": "You must be the change you wish to see in the world."
+	},
+	{
+		"name": "Nelson Mandela",
+		"quote": "It always seems impossible until it's done."
+	},
+	{
+		"name": "Albert Einstein",
+		"quote": "Strive not to be a success, but rather to be of value."
+	},
+	{
+		"name": "Steve Jobs",
+		"quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
+	},
+	{
+		"name": "Eleanor Roosevelt",
+		"quote": "The future belongs to those who believe in the beauty of their dreams."
+	},
+	{
+		"name": "Mark Twain",
+		"quote": "The secret of getting ahead is getting started."
+	},
+	{
+		"name": "Walt Disney",
+		"quote": "All our dreams can come true if we have the courage to pursue them."
+	},
+	{
+		"name": "Confucius",
+		"quote": "It does not matter how slowly you go as long as you do not stop."
+	},
+	{
+		"name": "Helen Keller",
+		"quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+	},
+	{
+		"name": "Martin Luther King Jr.",
+		"quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+	},
+	{
+		"name": "Theodore Roosevelt",
+		"quote": "Believe you can and you're halfway there."
+	},
+	{
+		"name": "Thomas Edison",
+		"quote": "I have not failed. I've just found 10,000 ways that won't work."
+	},
+	{
+		"name": "Oprah Winfrey",
+		"quote": "The biggest adventure you can take is to live the life of your dreams."
+	},
+	{
+		"name": "Winston Churchill",
+		"quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+	},
+	{
+		"name": "C.S. Lewis",
+		"quote": "You are never too old to set another goal or to dream a new dream."
+	},
+	{
+		"name": "Bruce Lee",
+		"quote": "Do not pray for an easy life, pray for the strength to endure a difficult one."
+	},
+	{
+		"name": "Malcolm X",
+		"quote": "The future belongs to those who prepare for it today."
+	},
+	{
+		"name": "Rumi",
+		"quote": "You were born with wings, why prefer to crawl through life?"
+	},
+	{
+		"name": "Vince Lombardi",
+		"quote": "The only place success comes before work is in the dictionary."
+	},
+	{
+		"name": "Dalai Lama",
+		"quote": "Happiness is not something ready-made. It comes from your own actions."
+	},
+	{
+		"name": "Zig Ziglar",
+		"quote": "You don’t have to be great to start, but you have to start to be great."
+	},
+	{
+		"name": "J.K. Rowling",
+		"quote": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all."
+	},
+	{
+		"name": "Franklin D. Roosevelt",
+		"quote": "The only limit to our realization of tomorrow is our doubts of today."
+	},
+	{
+		"name": "Muhammad Ali",
+		"quote": "Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it."
+	},
+	{
+		"name": "Socrates",
+		"quote": "The secret of change is to focus all of your energy not on fighting the old, but on building the new."
+	},
+	{
+		"name": "Mother Teresa",
+		"quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+	},
+	{
+		"name": "Marcus Aurelius",
+		"quote": "You have power over your mind — not outside events. Realize this, and you will find strength."
+	},
+	{
+		"name": "Michelangelo",
+		"quote": "The greater danger for most of us lies not in setting our aim too high and falling short, but in setting our aim too low and achieving our mark."
+	},
+	{
+		"name": "Lao Tzu",
+		"quote": "The journey of a thousand miles begins with one step."
+	},
+	{
+		"name": "Marie Curie",
+		"quote": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves."
+	},
+	{
+		"name": "Friedrich Nietzsche",
+		"quote": "He who has a why to live can bear almost any how."
+	},
+	{
+		"name": "Rosa Parks",
+		"quote": "You must never be fearful about what you are doing when it is right."
+	},
+	{
+		"name": "Pablo Picasso",
+		"quote": "Action is the foundational key to all success."
+	},
+	{
+		"name": "Sun Tzu",
+		"quote": "In the midst of chaos, there is also opportunity."
+	},
+	{
+		"name": "Harriet Tubman",
+		"quote": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."
+	},
+	{
+		"name": "Carl Jung",
+		"quote": "Who looks outside, dreams; who looks inside, awakes."
+	},
+	{
+		"name": "Frida Kahlo",
+		"quote": "Feet, what do I need you for when I have wings to fly?"
+	},
+	{
+		"name": "Nikola Tesla",
+		"quote": "The present is theirs; the future, for which I really worked, is mine."
+	},
+	{
+		"name": "Virginia Woolf",
+		"quote": "You cannot find peace by avoiding life."
+	},
+	{
+		"name": "Epictetus",
+		"quote": "It's not what happens to you, but how you react to it that matters."
+	},
+	{
+		"name": "Amelia Earhart",
+		"quote": "The most difficult thing is the decision to act, the rest is merely tenacity."
+	},
+	{
+		"name": "Voltaire",
+		"quote": "Judge a man by his questions rather than by his answers."
+	},
+	{
+		"name": "Jane Goodall",
+		"quote": "What you do makes a difference, and you have to decide what kind of difference you want to make."
+	},
+	{
+		"name": "Sylvia Plath",
+		"quote": "The worst enemy to creativity is self-doubt."
+	},
+	{
+		"name": "Arthur Schopenhauer",
+		"quote": "Talent hits a target no one else can hit; genius hits a target no one else can see."
+	},
+	{
+		"name": "Anne Frank",
+		"quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world."
 	}
 ]

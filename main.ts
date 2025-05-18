@@ -27,15 +27,7 @@ class QuoteView extends ItemView {
 
 		this.showRandomQuote(container)
 
-		setInterval(() => this.showRandomQuote(container), 5000)
-
-		const refreshBtn = container.createEl('button', {
-			cls: 'quote-refresh-btn',
-		})
-		setIcon(refreshBtn, 'refresh-cw')
-		refreshBtn.addEventListener('click', () =>
-			this.showRandomQuote(container),
-		)
+		setInterval(() => this.showRandomQuote(container), 10000)
 	}
 
 	showRandomQuote(container: Element) {
